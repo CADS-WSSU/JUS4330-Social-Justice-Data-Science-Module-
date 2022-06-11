@@ -4,7 +4,10 @@ This is a repository containing the material regarding data science modules impl
 # Social Justice
 This repository contains the data science infusion adopter modules of a course in Social Justice as taught by Dr. Jack S. Monell. This Social Justice course is offered once a year in the Spring at Winston-Salem State University. The course is primarily intended for upper level/seniors majoring in Justice Studies. 
 
-The focus of the course is identifying and contexualizing the landscape of critical social issues including: poverty, income inequality, hunger, welfare, homelessness, human rights, race, gender, age and disability discrimnation, crime, unjust and unequal sentencing, and violation of civil rights and liberties. Through the use of data analysis of various social justice theories/data, students will evaluate competing approaches to social justice and develop solutions addressing these issues. 
+The focus of the course is investigating the landscape of critical social issues including: poverty, income inequality, hunger, welfare, homelessness, human rights, race, gender, age and disability discrimnation, crime, unjust and unequal sentencing, and violation of civil rights and liberties.
 
 # Learning Outcomes
-Upon completion of the course, students will be able to 
+Upon completion of the course, students will cultivate their critical thinking skills, enhancing their ability to examine, analyze, and challenge situations, issues, and information. Students will identify and contexualize the social issues across the United States. As a data science learning outcome, students will evaluate competing approaches to solve these struggles and how they contribute to structural forms of oppression, exploitation, and violence through analysis of various social justice theories/data. Through this meticulous analysis, students will be able to develop solutions that address these societal issues.
+
+# Data Science Infusion
+The primary focus of this repository concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program.
