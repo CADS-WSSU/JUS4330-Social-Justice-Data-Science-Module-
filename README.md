@@ -24,7 +24,7 @@ The primary focus of this repository concerns only the portion of the course whe
       <th>Information In Each Folder</th>
     </tr>
     <tr>
-      <td>[Lecture Notes](https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Lectures)</td>
+      <td>Lecture Notes(https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Lectures)</td>
       <td align="center">right-aligned</td>
     </tr>
     <tr>
