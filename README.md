@@ -7,7 +7,8 @@ This repository contains the data science infusion adopter modules of a course i
 The focus of the course is investigating the landscape of critical social issues including: poverty, income inequality, hunger, welfare, homelessness, human rights, race, gender, age and disability discrimnation, crime, unjust and unequal sentencing, and violation of civil rights and liberties.
 
 # Learning Outcomes
-Through the duration of the course, students will cultivate their critical thinking skills, enhancing their ability to examine, analyze, and challenge situations, issues, and information. Students will identify and contexualize the social issues across the United States. As a data science learning outcome, students will evaluate competing approaches to solve these struggles and how they contribute to structural forms of oppression, exploitation, and violence through analysis of various social justice theories/data. Through this meticulous analysis, students will be able to develop solutions that address these societal issues.
+* Students will evaluate competing approaches to approaching and analyzing data concerning social issues accross the U.S.
+* Through such analysis, students will then be able to conceptualize or formulate possible solutions to those issues
 
 # Data Science Infusion
 The primary focus of this repository concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. The modules were classified into two broad areas:
