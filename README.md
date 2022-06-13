@@ -19,3 +19,5 @@ The primary focus of this repository concerns only the portion of the course whe
 | Content Cell  | Content Cell  |
 
 # Contact
+For questions or additional support regarding this module, feel free to reach out to us:
+- hi
