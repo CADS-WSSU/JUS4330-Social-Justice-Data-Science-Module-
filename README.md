@@ -22,12 +22,20 @@ The primary focus of this repository concerns only the portion of the course whe
     <tr>
       <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Lectures">Lecture Notes</a></td>
       <td>
-        <ul><li>item1</li><li>item2</li></ul>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Student%20Work%20Examples">Student Work Examples</a></td>
-      <td><ul><li>Sample student submission from the project, team assignments, and homework</li></ul></td>
+      <td>
+        <ul>
+          <li>Sample student submission from the project, team assignments, and homework</li>
+        </ul>
+        <br>
+      </td>
     </tr>
   </tbody>
 </table>
