@@ -12,7 +12,7 @@ Upon completion of the course, students will cultivate their critical thinking s
 # Data Science Infusion
 The primary focus of this repository concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. The modules were classified into two broad areas:
 
-<img src="/path/to/Faculty_adopter_monell_mainpage.png" alt="Alt text" title="Optional title">
+![Faculty_adopter_monell_mainpage](https://user-images.githubusercontent.com/78023031/173288410-93e01e06-9185-45ec-bbe7-bf0cde38c683.png)
 
 <ul>
   <li>Module 1 - Introductory CADS Module</li>
