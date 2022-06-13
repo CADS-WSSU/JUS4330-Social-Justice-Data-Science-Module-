@@ -10,4 +10,12 @@ The focus of the course is investigating the landscape of critical social issues
 Upon completion of the course, students will cultivate their critical thinking skills, enhancing their ability to examine, analyze, and challenge situations, issues, and information. Students will identify and contexualize the social issues across the United States. As a data science learning outcome, students will evaluate competing approaches to solve these struggles and how they contribute to structural forms of oppression, exploitation, and violence through analysis of various social justice theories/data. Through this meticulous analysis, students will be able to develop solutions that address these societal issues.
 
 # Data Science Infusion
-The primary focus of this repository concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. Two modules focused on the data science infusion
+The primary focus of this repository concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. The modules were classified into two broad areas:
+
+# Navigating the Repository
+| Folders In Repository  | Information In Each Folder |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+# Contact
