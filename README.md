@@ -16,7 +16,23 @@ The primary focus of this repository concerns only the portion of the course whe
 | Folders In Repository  | Information In Each Folder |
 | ------------- | ------------- |
 | [Lecture Notes](https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Lectures)  | <ul><li>item1</li><li>item2</li></ul> |
-| [Student Work Examples](https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Student%20Work%20Examples)  | <ul><li>item1</li><li>item2</li></ul>  |
+| [Student Work Examples](https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Student%20Work%20Examples)  | <ul><li>Sample student submission from the project, team assignments, and homework</li></ul>  |
+<table>
+  <tbody>
+    <tr>
+      <th>Folders In Repository</th>
+      <th>Information In Each Folder</th>
+    </tr>
+    <tr>
+      <td>[Lecture Notes](https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Lectures)</td>
+      <td align="center">right-aligned</td>
+    </tr>
+    <tr>
+      <td>col 2 is</td>
+      <td align="center">centered</td>
+    </tr>
+  </tbody>
+</table>
 
 # Contact
 For questions or additional support regarding this module, feel free to reach out to us:
