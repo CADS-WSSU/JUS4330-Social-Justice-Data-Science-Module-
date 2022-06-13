@@ -20,4 +20,4 @@ The primary focus of this repository concerns only the portion of the course whe
 
 # Contact
 For questions or additional support regarding this module, feel free to reach out to us:
-- [Dr. Ken Lunde](<a href="mailto:emersonpess011108@gmail.com?">)
+- [Dr. Ken Lunde](mailto:emersonpess011108@gmail.com)
