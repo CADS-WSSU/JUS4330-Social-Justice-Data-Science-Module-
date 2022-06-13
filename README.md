@@ -13,10 +13,6 @@ Upon completion of the course, students will cultivate their critical thinking s
 The primary focus of this repository concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. The modules were classified into two broad areas:
 
 # Navigating the Repository
-| Folders In Repository  | Information In Each Folder |
-| ------------- | ------------- |
-| [Lecture Notes](https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Lectures)  | <ul><li>item1</li><li>item2</li></ul> |
-| [Student Work Examples](https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Student%20Work%20Examples)  | <ul><li>Sample student submission from the project, team assignments, and homework</li></ul>  |
 <table>
   <tbody>
     <tr>
@@ -25,11 +21,13 @@ The primary focus of this repository concerns only the portion of the course whe
     </tr>
     <tr>
       <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Lectures">Lecture Notes</a></td>
-      <td align="center">right-aligned</td>
+      <td>
+        <ul><li>item1</li><li>item2</li></ul>
+      </td>
     </tr>
     <tr>
-      <td>col 2 is</td>
-      <td align="center">centered</td>
+      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Student%20Work%20Examples">Student Work Examples</a></td>
+      <td><ul><li>Sample student submission from the project, team assignments, and homework</li></ul></td>
     </tr>
   </tbody>
 </table>
