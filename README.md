@@ -73,5 +73,5 @@ The primary focus of this repository concerns only the portion of the course whe
 
 # Contact
 For questions or additional support regarding this module, feel free to reach out to us:
-- [Jack S. Monell, Instructor of this module and Associate Professor of Justice Studies as Winston-Salem State University](mailto:monelljs@wssu.edu)
+- [Jack S. Monell, Instructor of this module and Associate Professor of Justice Studies at Winston-Salem State University](mailto:monelljs@wssu.edu)
 - [Debzani Deb, Founding Director of the Center for Applied Data Science](mailto:debd@wssu.edu)
