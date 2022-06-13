@@ -15,7 +15,7 @@ The primary focus of this repository concerns only the portion of the course whe
 # Navigating the Repository
 | Folders In Repository  | Information In Each Folder |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| [Lecture Notes](https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Lectures)  | Content Cell  |
 | Content Cell  | Content Cell  |
 
 # Contact
