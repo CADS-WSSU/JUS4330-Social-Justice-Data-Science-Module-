@@ -30,13 +30,13 @@ The primary focus of this repository concerns only the portion of the course whe
       <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Lectures">Lecture Notes</a></td>
       <td>
         <ul>
-          <li>Module 1
+          <li>Module 1 - Introductory CADS Module
             <ul>
               <li>Survey Research Lecture</li>
               <li>Secondary Data Analysis Lecture</li>
             </ul>
           </li>
-          <li>Module 2
+          <li>Module 2 - Descriptive Statistics Module
             <ul>
               <li>Descriptive Statistics Lecture</li>
             </ul>
